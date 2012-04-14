@@ -1,7 +1,7 @@
-Fresbee
+Frisbee
 =======
 
-Freesbe is a simple modular web server inpired by [connect](https://github.com/senchalabs/connect/).
+Frisbee is a simple modular web server inpired by [connect](https://github.com/senchalabs/connect/).
 
 license
 -------

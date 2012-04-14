@@ -1,1 +1,1 @@
-module.exports = require('./lib/fresbee');
+module.exports = require('./lib/frisbee');
