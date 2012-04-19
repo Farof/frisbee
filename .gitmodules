@@ -1,0 +1,3 @@
+[submodule "lib/mime"]
+	path = lib/mime
+	url = https://github.com/bentomas/node-mime.git
